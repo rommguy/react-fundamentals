@@ -2,21 +2,22 @@
   border: 1px solid;
   display: block;
   padding: 20px;
+
+  .counter-wrapper {
+    margin: 0 15px;
+  }
 }
 
 .reporter-0 {
   border-color: black;
-  height: 500px;
 }
 
 .reporter-1 {
   border-color: yellow;
-  height: 400px;
 }
 
 .reporter-2 {
   border-color: blue;
-  height: 300px;
 }
 
 .reporter-3 {
