@@ -4,4 +4,5 @@
 - renders and hooks - multiple use state
 - Redux - renders efficiency
 - implement useCallback
+- Convert RenderReporter to a class component
 
